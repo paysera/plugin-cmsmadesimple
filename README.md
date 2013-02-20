@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 plugin-cmsmadesimple
 ====================
 
@@ -46,4 +45,3 @@ Contacts
 --------
 
 If any problems occur please feel free to seek help via support@webtopay.com
->>>>>>> release/1.11_1.6

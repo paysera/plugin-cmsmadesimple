@@ -1,42 +1,32 @@
-cmsMadeSimple module
+plugin-cmsmadesimple
 ====================
 
-**cmsMadeSimple 1.11**
+Paysera.com payment gateway plugin for CmsMadeSimple
 
-Paysera payment gateway module. 
+Requirements
+------------
 
-**Version of specification: 1.6**
+- CmsMadeSimple
+
+- CGExtensions
+- CGEcommerceBase
+- CGSimpleSmarty
+- JQueryTools
+- Products
+- Cart
+- FrontEndUsers
+- CGPaymentGatewayBase
+- Orders
 
 Installation
 ------------
 
-1. Download PayseraGateway.xml file into your computer.
-2. In admin panel go to Extensions -> Modules
-3. Install all dependencies needed and install PayseraGateway module from PayseraGateway.xml file from your computer.
-4. Then go to E-Commerce -> Paysera Gateway and fill in required information.
-
-Dependencies
-------------
-
-CGExtensions
-
-CGEcommerceBase
-
-CGSimpleSmarty
-
-JQueryTools
-
-Products
-
-Cart
-
-FrontEndUsers
-
-CGPaymentGatewayBase
-
-Orders
+1. Download this repository as zip and extract all files into cmsMadeSimple main directory;
+2. In admin panel go to Extensions -> Modules.
+3. Install all dependencies needed.
+4. Then go to E-Commerce -> Paysera Gateway -> Settings and fill in required information.
 
 Contacts
 --------
 
-If any problems occur please feel free to seek help via support@webtopay.com
+If any problems occur please feel free to seek help via support@paysera.com

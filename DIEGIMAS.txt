@@ -1,0 +1,22 @@
+Diegimas
+
+1. Isarchyvuokite archyva faila i pagrindine TVS direktorija.
+1. Administracijos paneleje eikite i Pletiniai -> Moduliai.
+2. Irasykite visus privalomus modulius.
+3. Eikite i E-Commerce -> Paysera Gateway -> Nustatymai ir uzpildykite reikalinga informacija.
+
+Privalomi moduliai
+
+CGExtensions
+CGEcommerceBase
+CGSimpleSmarty
+JQueryTools
+Products
+Cart
+FrontEndUsers
+CGPaymentGatewayBase
+Orders
+
+Kontaktai
+
+Kilus klausimams prasome kreiptis i pagalba@mokejimai.lt

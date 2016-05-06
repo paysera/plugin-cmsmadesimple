@@ -35,7 +35,7 @@ $lang['help'] = <<<EOT
 <p>Navigate to the preferences tab in the Orders module and select this module as your chosen payment gateway.</p>
 
 <h3>Support</h3>
-<p>If any problem occurs please contact support via integrate@mokejimai.lt or skype evp_integrate (only on working hours).</p>
+<p>If any problem occurs please contact support via integrate@paysera.com or skype evp_integrate (only on working hours).</p>
 EOT;
 $lang['help_order_id'] = 'Specifies the order id of the order we\'re try to complete.';
 

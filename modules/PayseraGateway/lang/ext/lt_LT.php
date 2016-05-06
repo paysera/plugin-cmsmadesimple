@@ -6,7 +6,7 @@ $lang['production_settings'] = 'Production Settings';
 
 # C
 $lang['checkout_button_message'] = 'Mokėti';
-$lang['checkout_message'] = 'Mokėti per Mokėjimai.lt:';
+$lang['checkout_message'] = 'Mokėti per :';
 
 # E
 $lang['error_transaction_invalid_amount'] = 'An invalid (not the entire amount?) amount was received for a transaction';
@@ -28,14 +28,14 @@ $lang['friendlyname'] = 'Paysera Gateway';
 # H
 $lang['help'] = <<<EOT
 <h3>Ką šis modulis daro?</h3>
-<p>Šis modulis leidžia atsiskaityti už prekes per Mokėjimai.lt sistemą.</p>
+<p>Šis modulis leidžia atsiskaityti už prekes per Paysera sistemą.</p>
 <h3>Kaip naudotis</h3>
-<p>Sukurkite projektą mokejimai.lt svetainėje.</p>
+<p>Sukurkite projektą paysera.com svetainėje.</p>
 <p>Užpildykite modulioo informaciją administravimo skiltyje.</p>
 <p>"Orders" modulyje pasirinkite šį modulį kaip mokėjimo būdą.</p>
 
 <h3>Pagalba</h3>
-<p>Jeigu kilo problemų prašome sisisiekti pagalba@mokejimai.lt el.paštu.</p>
+<p>Jeigu kilo problemų prašome sisisiekti pagalba@paysera.lt el.paštu.</p>
 EOT;
 $lang['help_order_id'] = 'Nurodo užsakymo id.';
 
@@ -52,10 +52,10 @@ $lang['msg_transaction_waitingipn'] = 'Transaction %s marked as PENDING until Pa
 $lang['online_purchase'] = 'Online Purchase';
 
 # P
-$lang['project_id'] = 'Jūsų Mokėjimai.lt projekto ID';
-$lang['project_pass'] = 'Jūsų Mokėjimai.lt projekto slaptažodis';
+$lang['project_id'] = 'Jūsų Paysera projekto ID';
+$lang['project_pass'] = 'Jūsų Paysera projekto slaptažodis';
 $lang['pdt_identity_token'] = 'PDT Identity Token';
-$lang['postinstall'] = 'Mokėjimai.lt modulis buvo sėkmingai įdiegtas. Jūs galite pasirinti šį modulį Orders modulio nustatymuose.';
-$lang['postuninstall'] = 'Mokėjimai.lt modulis buvo ištrintas.';
+$lang['postinstall'] = 'Paysera modulis buvo sėkmingai įdiegtas. Jūs galite pasirinti šį modulį Orders modulio nustatymuose.';
+$lang['postuninstall'] = 'Paysera modulis buvo ištrintas.';
 $lang['preferences'] = 'Nustatymai';
 $lang['prompt_form_template'] = 'Redaguoti mokėjimo formą.';

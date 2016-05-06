@@ -533,7 +533,7 @@ class PayseraGateway extends CGPaymentGatewayBase {
                 'orderid'       => $this->_data['orderid'],
                 'amount'        => intval(number_format($price, 2, '', '')),
                 'currency'      => $this->_data['currencycode'],
-                'lang'          => ($lang == 'lt_LT') ? 'LIT' : '',
+                'lang'          => ($lang == 'lt_LT') ? 'LIT' : 'ENG',
 
                 'accepturl'     => $URL['accept'],
                 'cancelurl'     => $URL['cancel'],
